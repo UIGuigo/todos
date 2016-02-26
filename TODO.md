@@ -13,9 +13,11 @@
 
 ### Friday, February 25th
 
-- Car preperation for Breck trip 
-- Rent skis
-- Look for lift passes on the low-low
+- [ ] Car preperation for Breck trip 
+- [x] Rent skis 
+	- Total: $115.04
+- [x] Breckenridge/Keystone Epic Day Passes for 2
+	- Total: $309.00
 
 ### March 7
 
