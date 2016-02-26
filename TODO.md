@@ -1,7 +1,15 @@
 #laurie && danilo's todo's
 
-## Time Sensitive 
+## Calendar Events
 
+- **February 27th-28th:** Trip to Breck
+- **March 8th-10th:** Laurie in CA
+- **March ???:** Danilo in CA
+- **May 14th-18th:** Trip to Orlando
+- **???** Cagney's to Denver
+- **October 29th:** Getting married!
+
+## Time Sensitive 
 
 ### Friday, February 25th
 
@@ -9,12 +17,12 @@
 - Rent skis
 - Look for lift passes on the low-low
 
-### March 1
+### March 7
 
 - Groomsmen 
 - Grab remaining addresses from the list
 
-### ???  
+### March 14  
 
 - Send out 'Save the Dates'
 
