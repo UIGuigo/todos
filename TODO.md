@@ -21,43 +21,43 @@
 
 ### March 7
 
-- Groomsmen 
-- Grab remaining addresses from the list
+- [ ] Groomsmen 
+- [ ] Grab remaining addresses from the list
 
 ### March 14  
 
-- Send out 'Save the Dates'
+- [ ] Send out 'Save the Dates'
 
 ### April 15
 
-- Taxes! 
+- [ ] Taxes! 
 
 ### May 14
 
-- Schedule wedding visits for Orlando trip
+- [ ] Schedule wedding visits for Orlando trip
 
 ## Extraneous house things
 
-- Bedroom furniture
-- Unpack basement
-- Remaining living room items
+- [ ] Bedroom furniture
+- [ ] Unpack basement
+- [ ] Remaining living room items
 ```
 	Ottoman;
 	Area rug;
 	Media shelves;
 	Decorative wall stuff
 ```
-- Remaining kitchen items
+- [ ] Remaining kitchen items
 ```
 	Cubby;
 ```
-- Remaining dining room items
+- [ ] Remaining dining room items
 ```	
 	Dining table;
 	Area rug;
 	1/2 pieces;
 	Decorative wall stuff
 ```
-- Unwinterize sprinklers (when is it safe?) 
+- [ ] Unwinterize sprinklers (when is it safe?) 
 
 
